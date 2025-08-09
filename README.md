@@ -6,16 +6,9 @@ This repository contains a full-stack application implementing the Hubspot Integ
 
 ---
 
-## Live Demo
-
-A live demo of the frontend is available here:  
-[Live Demo Link](https://your-live-demo-link.com)  <!-- Replace with your actual live URL -->
-
----
-
 ## Screenshot
 
-![Project Screenshot](./path/to/screenshot.png)  <!-- Replace with your actual screenshot path -->
+![Project Screenshot]<img width="921" height="708" alt="Image" src="https://github.com/user-attachments/assets/a3bcf4e0-4d84-4bc1-8f7b-a309e65ad62a" />
 
 ---
 
