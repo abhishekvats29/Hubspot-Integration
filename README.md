@@ -1,4 +1,4 @@
-# Hubspot Integrations fullstack Project
+# VectorShift Backend Technical Assessment
 
 ## Project Overview
 
