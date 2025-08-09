@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains a full-stack application implementing the VectorShift Integrations Technical Assessment. The primary focus was on backend development using Python and FastAPI, building HubSpot OAuth integration and item loading logic. To complement this, a React frontend was also developed to demonstrate and test the integrations in a user-friendly interface.
+This repository contains a full-stack application implementing the Hubspot Integrations. The primary focus was on backend development using Python and FastAPI, building HubSpot OAuth integration and item loading logic. To complement this, a React frontend was also developed to demonstrate and test the integrations in a user-friendly interface.
 
 ---
 
