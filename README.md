@@ -1,4 +1,4 @@
-# VectorShift Integrations Technical Assessment
+# Hubspot Integrations fullstack Project
 
 ## Project Overview
 
@@ -143,7 +143,11 @@ Set these environment variables in your backend environment for HubSpot OAuth:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This repository contains code developed as part of a private assignment.
+The code is intended solely for the purpose of the assignment and evaluation.
+Unauthorized use, distribution, or commercial use is prohibited without explicit permission.
+
+© 2025 Abhishek Vats. All rights reserved.
 ---
 
 Thank you for reviewing my submission!
