@@ -130,7 +130,8 @@ Set these environment variables in your backend environment for HubSpot OAuth:
 
 ## Author
 
-**Abhishek Vats**  
+**Abhishek Vats** 
+**Backend Developer**
 
 ---
 
